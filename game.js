@@ -1,3 +1,4 @@
+
 const buttonColours = ["red", "blue", "green", "yellow"];
 const gamePattern = [];
 const userClickedPattern = [];
